@@ -9,24 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+[[CV_en]]("/files/paper1/pdf")
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Undergraduate at the School of Computer Science and Technology, China University of Mining and Technology (CUMT), China
 
-Work experience
+Profession skills
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
+* **Academic Recoards**
+  * Rank: 2/133
+  * GPA: 4.33/5.00
+* **English**
+  * CET-6  618
+  * Speaking-level  A
+* **Programming**: Python, C++, Matlab
+* **Core courses**
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -41,19 +43,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
