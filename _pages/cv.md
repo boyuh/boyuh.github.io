@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[CV_en]]("../files/CV_FeiranLi_Eng_2022.pdf")
+[[CV_en]](../files/CV_FeiranLi_Eng_2022.pdf)
 
 Education
 ======
@@ -34,7 +34,7 @@ Profession skills
   * Algorithm (93)
   * Principles of Computer Organization (97)
 
-Skills
+Selected honors
 ======
 * **Scholarships**
   - National Scholarship																											2021
