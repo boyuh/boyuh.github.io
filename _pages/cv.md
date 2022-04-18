@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[CV_en]]("/files/paper1/pdf")
+[[CV_en]]("paper1/pdf")
 
 Education
 ======
@@ -19,40 +19,36 @@ Profession skills
 ======
 * **Academic Recoards**
   * Rank: 2/133
-  * GPA: 4.33/5.00
+  * GPA: 4.35/5.00
 * **English**
   * CET-6  618
   * Speaking-level  A
 * **Programming**: Python, C++, Matlab
 * **Core courses**
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Advanced Math (92.25 on average)
+  * Linear Algebra (100)
+  * Probability & Statistics (94)
+  * Discrete Math (98)
+  * Operation System (98)
+  * Computer Network (97)
+  * Algorithm (93)
+  * Principles of Computer Organization (97)
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Scholarships**
+  - National Scholarship																											2021
+  - HUAWEI Intelligence Base Scholarship 													                        2021
+  - National Scholarship                                                                                                            2020
+* **Awards**
+  * HUAWEI DIGIX Campus Algorithm Competition, Jiangsu Province, Wining Award	2021.12    	
+  * Mathematical Modeling Contest of Huashu Cup, Second Prize                                    2021.08
+  * National English Competition, Second Prize                                                                     2020.12
+  * Programming Contest of CUMT, First Prize                                                                       2020.06
 
-Publications
+Experiences
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
