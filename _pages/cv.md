@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[CV_en]]("paper1/pdf")
+[[CV_en]]("../files/CV_FeiranLi_Eng_2022.pdf")
 
 Education
 ======
