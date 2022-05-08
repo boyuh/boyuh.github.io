@@ -45,13 +45,3 @@ Selected honors
   * Mathematical Modeling Contest of Huashu Cup, Second Prize                                    2021.08
   * National English Competition, Second Prize                                                                     2020.12
   * Programming Contest of CUMT, First Prize                                                                       2020.06
-
-Experiences
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
