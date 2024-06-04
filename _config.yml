@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Feiran Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/feiran.jpg"
   bio              : "Institute of Information Engineering (IIE), CAS"
   location         : "Beijing, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : ferry-li
   google_plus      :
   keybase          :
   instagram        :

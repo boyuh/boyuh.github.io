@@ -47,8 +47,9 @@ International Conference on Machine Learning (ICML) 2024.
 </div>
 </div>
 
-- [Identity-invariant representation and transformer-style relation for micro-expression recognition](https://link.springer.com/article/10.1007/s10489-023-04533-4). [Zhiwen Shao](https://zhiwenshao.github.io/), **Feiran Li**, Yong Zhou, Hao Chen, Hancheng Zhu, Rui Yao. Applied Intelligence, 2023.
+- [Joint facial action unit recognition and self-supervised optical flow estimation](https://www.sciencedirect.com/science/article/pii/S0167865524000928). [Zhiwen Shao](https://zhiwenshao.github.io/), Yong Zhou, **Feiran Li**, Hancheng Zhu, Bing Liu. Pattern Recognition Letters, 2024.
 
+- [Identity-invariant representation and transformer-style relation for micro-expression recognition](https://link.springer.com/article/10.1007/s10489-023-04533-4). Zhiwen Shao, **Feiran Li**, Yong Zhou, Hao Chen, Hancheng Zhu, Rui Yao. Applied Intelligence, 2023.
 
 
 # 🎖 Honors and Awards
