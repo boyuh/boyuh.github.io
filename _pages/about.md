@@ -21,7 +21,7 @@ Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. stude
 
 
 
-<!-->
+<!--
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2024.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,12 +50,32 @@ Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. stude
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='school-box'>
+<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2023.09 - now*, Ph.D. Student.
 
+Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+
+University of Chinese Academy of Sciences, Beijing.
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2019.06 - 2023.06*, Undergraduate.
+School of Computer Science and Technology.
+[China University of Mining and Technology (CUMT)](https://www.cumt.edu.cn/), Xuzhou.
+</div>
+</div>
+
+
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
