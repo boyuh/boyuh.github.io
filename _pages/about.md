@@ -74,7 +74,7 @@ University of Chinese Academy of Sciences, Beijing.
 
 School of Computer Science and Technology.
 
-[China University of Mining and Technology (CUMT)](https://www.cumt.edu.cn/), Xuzhou.
+China University of Mining and Technology (CUMT), Xuzhou.
 </div>
 </div>
 
