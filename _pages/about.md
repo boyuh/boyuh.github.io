@@ -53,7 +53,7 @@ Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. stude
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2023.09 - now*, Ph.D. Student.
+2023.09 - now, Ph.D. Student.
 
 Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 
@@ -62,9 +62,9 @@ University of Chinese Academy of Sciences, Beijing.
 </div>
 
 <div class='school-box'>
-<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div><img src='images/cumt.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2019.06 - 2023.06*, Undergraduate.
+2019.06 - 2023.06, Undergraduate.
 School of Computer Science and Technology.
 [China University of Mining and Technology (CUMT)](https://www.cumt.edu.cn/), Xuzhou.
 </div>
