@@ -53,8 +53,8 @@ International Conference on Machine Learning (ICML) 2024.
 
 
 # 🎖 Honors and Awards
-- *2021.12* 2020-2021 National Scholarship for undergraduates.
-- *2020.12* 2019-2020 National Scholarship for undergraduates.
+- *2021.12* 2020-2021 National Scholarship for Undergraduates.
+- *2020.12* 2019-2020 National Scholarship for Undergraduates.
 
 # 📖 Educations
 <div class='school-box'>
