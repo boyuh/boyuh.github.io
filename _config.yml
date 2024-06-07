@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Feiran Li's Homepage"
-description              : "PhD. student of Institute of Information Engineering (IIE), CAS "
-repository               : "Ferry-Li/Ferry-Li.github.io"
+title                    : "Boyu Han"
+description              : ""
+repository               : "boyuh/boyuhan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Feiran Li"
-  avatar           : "images/feiran.jpg"
-  bio              : "Institute of Information Engineering (IIE), CAS"
+  name             : "Boyu Han"
+  avatar           : "images/boyuhan.jpg"
+  bio              : "PhD. student of Institute of Computing Technology (ICT), CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=vPStt7cAAAAJ"
-  email            : "lifeiran@iie.ac.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.au/citations?user=_YvB0sCwAAAAJ"
+  email            : "hanboyu23z@ict.ac.cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ferry-li
+  github           : boyuh
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-6443-4842"
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

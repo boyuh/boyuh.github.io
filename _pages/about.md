@@ -19,72 +19,84 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [CUMT](https://www.cumt.edu.cn/) in 2023. My research interest includes machine learning and computer vision. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML. If you are interested in my research, please email me at lifeiran@iie.ac.cn.
+Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in [VIPL](https://vipl.ict.ac.cn/en/index.html) research group of [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://english.ict.cas.cn/), supervised by Prof. [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS) and [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow). I have received the B.E. degree in the [SCSE](https://www.en.scse.uestc.edu.cn/) at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2023. My research interests include machine learning and computer vision. If you are interested in my research, please email me at <a href="hanboyu23z@ict.ac.cn">hanboyu23z@ict.ac.cn</a>.
 
+<!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
-
-<!--
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2024.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2024.05*: &nbsp;🎉🎉🎉 One paper accepted to [ICML 2024](https://icml.cc/Conferences/2024). 
+- *2023.09*: &nbsp;🎉🎉🎉 Start my journey in [VIPL](https://vipl.ict.ac.cn/en/index.html) research group of [ICT, CAS](http://english.ict.cas.cn/)!!
+- *2023.06*: &nbsp;🎉 Happy graduation from [UESTC](https://en.uestc.edu.cn/)!!
+- *2023.06*: &nbsp;🎉 I have obtained the Outstanding Graduate of Sichuan Province and UESTC (四川省和电子科技大学优秀毕业生).
+- *2022.12*: &nbsp;🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
+- *2021.12*: &nbsp;🎉 I have obtained the Tencent First Prize Scholarship (腾讯一等学金) from the Tencent and UESTC.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/icml24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024_Harnessing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection](https://arxiv.org/pdf/2405.09782)
+**<font size=4>Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition</font>**
 
-**Feiran Li**, [Qianqian Xu](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Runmin Cong](https://rmcong.github.io/), [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm), [Qingming Huang](https://qmhuang-ucas.github.io/). 
-International Conference on Machine Learning (ICML) 2024.
-[[code]](https://github.com/Ferry-Li/SI-SOD) | [[slides]](https://icml.cc/virtual/2024/poster/35026)
+Zhiyong Yang, Qianqian Xu<sup>\*</sup>, Zitai Wang, Sicong Li, **Boyu Han**, Shilong Bao, Xiaochun Cao, Qingming Huang<sup>\*</sup>
 
-[**Project**](https://ferry-li.github.io/SI_SOD/) 
-<!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--->
-- A generic approach to address the size-invariance problem in multi-object salient object detection.
+International Conference on Machine Learning (**ICML**) 2024
+
+[\[Paper\]](https://arxiv.org/abs/2405.07780) \|[\[Code\]](https://github.com/scongl/DirMixE)
 </div>
 </div>
 
-- [Joint Facial Action Unit Recognition and Self-supervised Optical Flow Estimation](https://www.sciencedirect.com/science/article/pii/S0167865524000928). [Zhiwen Shao](https://zhiwenshao.github.io/), Yong Zhou, **Feiran Li**, Hancheng Zhu, Bing Liu. Pattern Recognition Letters, 2024.
+# 📖 Academic Services
+ - *NeruIPS*：PC Member (2024)
 
-- [Identity-invariant Representation and Transformer-style Relation for Micro-expression Recognition](https://link.springer.com/article/10.1007/s10489-023-04533-4). Zhiwen Shao, **Feiran Li**, Yong Zhou, Hao Chen, Hancheng Zhu, Rui Yao. Applied Intelligence, 2023.
-
+<!-- # 💬 Invited Talks & Presentations
+- *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
+- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
+- *2023.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
+- *2023.10*: &nbsp; PhD. student Forum of PRCV 2023. [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
+- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b). -->
 
 # 🎖 Honors and Awards
-- *2021.12* 2020-2021 National Scholarship for Undergraduates.
-- *2020.12* 2019-2020 National Scholarship for Undergraduates.
+- **Outstanding Graduate** of Sichuan Province(四川省优秀毕业生), 2023
+- **Outstanding Graduate** of University of Electronic Science and Technology of China (电子科技大学优秀毕业生), 2023
+- **National Scholarship** (国家奖学金), 2022
+- **Tencent First Prize Scholarship** (腾讯一等学金), 2021
+- **Three-time First-Class Annual Scholarship for Outstanding Students** by University of Electronic Science and Technology of China (电子科技大学一等优秀学生奖学金), 2020-2022
+- **Outstanding Winner and AMS Award** in the American College Students Mathematical Modeling Contest (美国大学生数学建模竞赛O奖及AMS奖), 2021
 
-# 📖 Educations
+# 🎓 Educations
+
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2023.09 - now, Ph.D. Student.
 
-Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+Institute of Computing Technology, Chinese Academy of Sciences.
 
 University of Chinese Academy of Sciences, Beijing.
 </div>
 </div>
 
 <div class='school-box'>
-<div><img src='images/cumt.jpg' alt="sym" width="80"></div>
+<div><img src='images/UESTC.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.06 - 2023.06, Undergraduate.
+2019.09 - 2023.06, Undergraduate.
 
-School of Computer Science and Technology.
+School of Computer Science and Engineering (School of Cyber Security).
 
-China University of Mining and Technology (CUMT), Xuzhou.
+University of Electronic Science and Technology of China, Chengdu, Sichuan.
 </div>
 </div>
 
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- # 💻 Project
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='images/Xcurve.png' alt="sym" width="120%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*2020.02 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the development of [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
+
+- XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback!
+</div>
+</div> -->
