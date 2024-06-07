@@ -19,14 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in [VIPL](https://vipl.ict.ac.cn/en/index.html) research group of [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://english.ict.cas.cn/), supervised by Prof. [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS) and [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow). I have received the B.E. degree in the [SCSE](https://www.en.scse.uestc.edu.cn/) at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2023. My research interests include machine learning and computer vision. If you are interested in my research, please email me at <a href="hanboyu23z@ict.ac.cn">hanboyu23z@ict.ac.cn</a>.
+Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)</a>, supervised by Prof. <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a> (Professor at ICT, CAS) and <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a> (IEEE Fellow). I have received the B.E. degree in the <a href="https://www.en.scse.uestc.edu.cn/" style="text-decoration: none;">SCSE</a> at the <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">University of Electronic Science and Technology of China (UESTC)</a> in 2023. My research interests include machine learning and computer vision. If you are interested in my research, please email me at <a href="hanboyu23z@ict.ac.cn">hanboyu23z@ict.ac.cn</a>.
 
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉🎉 One paper accepted to [ICML 2024](https://icml.cc/Conferences/2024). 
-- *2023.09*: &nbsp;🎉🎉🎉 Start my journey in [VIPL](https://vipl.ict.ac.cn/en/index.html) research group of [ICT, CAS](http://english.ict.cas.cn/)!!
-- *2023.06*: &nbsp;🎉 Happy graduation from [UESTC](https://en.uestc.edu.cn/)!!
+- *2024.05*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://icml.cc/Conferences/2024" style="text-decoration: none;">ICML 2024</a>. 
+- *2023.09*: &nbsp;🎉🎉🎉 Start my journey in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">ICT, CAS</a>!!
+- *2023.06*: &nbsp;🎉 Happy graduation from <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">UESTC</a>!!
 - *2023.06*: &nbsp;🎉 I have obtained the Outstanding Graduate of Sichuan Province and UESTC (四川省和电子科技大学优秀毕业生).
 - *2022.12*: &nbsp;🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2021.12*: &nbsp;🎉 I have obtained the Tencent First Prize Scholarship (腾讯一等学金) from the Tencent and UESTC.
