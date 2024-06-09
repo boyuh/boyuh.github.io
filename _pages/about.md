@@ -39,7 +39,7 @@ Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in <a href="https://vipl.i
 
 **<font size=4>Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition</font>**
 
-Zhiyong Yang, Qianqian Xu<sup>\*</sup>, Zitai Wang, Sicong Li, **Boyu Han**, Shilong Bao, Xiaochun Cao, Qingming Huang<sup>\*</sup>
+<a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://wang22ti.com/" style="text-decoration: none;">Zitai Wang</a>, Sicong Li, **Boyu Han**, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://scst.sysu.edu.cn/members/caoxiaochun.htm" style="text-decoration: none;">Xiaochun Cao</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
 
 International Conference on Machine Learning (**ICML**) 2024
 
@@ -48,7 +48,7 @@ International Conference on Machine Learning (**ICML**) 2024
 </div>
 
 # 📖 Academic Services
- - *NeruIPS*：PC Member (2024)
+ - *NeurIPS*：PC Member (2024)
 
 <!-- # 💬 Invited Talks & Presentations
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
