@@ -50,6 +50,7 @@ International Conference on Machine Learning (**ICML**) 2024
 # 📖 Academic Services
 Conferences
  - *NeurIPS*：PC Member (2024)
+ - *ICLR*：PC Member (2025) 
  
 Journals
  - *Multimedia Systems*: Reviewer
