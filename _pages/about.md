@@ -24,7 +24,8 @@ Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in <a href="https://vipl.i
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://icml.cc/Conferences/2024" style="text-decoration: none;">ICML 2024</a>. 
+- *2024.09*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2024" style="text-decoration: none;">NeurIPS 2024</a>, thanks to all co-authors!
+- *2024.05*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://icml.cc/Conferences/2024" style="text-decoration: none;">ICML 2024</a>,  thanks to all co-authors!
 - *2023.09*: &nbsp;🎉🎉🎉 Start my journey in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">ICT, CAS</a>!!
 - *2023.06*: &nbsp;🎉 Happy graduation from <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">UESTC</a>!!
 - *2023.06*: &nbsp;🎉 I have obtained the Outstanding Graduate of Sichuan Province and UESTC (四川省和电子科技大学优秀毕业生).
@@ -34,7 +35,20 @@ Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in <a href="https://vipl.i
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024_Harnessing.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024_AUCSeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation</font>**
+
+**Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://scholar.google.com/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Peisong Wen</a>, <a href="https://jiangyangby.github.io/" style="text-decoration: none;">Yangbangyan Jiang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
+
+Conference on Neural Information Processing Systems (**NeurIPS**) 2024
+
+[\[Paper\]](https://boyuh.github.io/) \| [\[Code\]](https://boyuh.github.io/) | [\[Video\]](https://boyuh.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024_𝖣𝗂𝗋𝖬𝗂𝗑𝖤.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition</font>**
