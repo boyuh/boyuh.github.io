@@ -42,9 +42,9 @@ Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in <a href="https://vipl.i
 
 **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://scholar.google.com/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Peisong Wen</a>, <a href="https://jiangyangby.github.io/" style="text-decoration: none;">Yangbangyan Jiang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
 
-Conference on Neural Information Processing Systems (**NeurIPS**) 2024
+Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
-[\[Paper\]](https://boyuh.github.io/) \| [\[Code\]](https://boyuh.github.io/) | [\[Video\]](https://boyuh.github.io/)
+[\[Paper\]](https://arxiv.org/abs/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg) | [\[Video\]](https://boyuh.github.io/)
 </div>
 </div>
 
