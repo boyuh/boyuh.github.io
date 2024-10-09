@@ -44,7 +44,7 @@ Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in <a href="https://vipl.i
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
-[\[Paper\]](https://arxiv.org/abs/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg) | [\[Video\]](https://boyuh.github.io/)
+[\[Paper\]](https://arxiv.org/abs/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg)
 </div>
 </div>
 
@@ -64,7 +64,8 @@ International Conference on Machine Learning (**ICML**) 2024
 # 📖 Academic Services
 Conferences
  - *NeurIPS*：PC Member (2024)
- - *ICLR*：PC Member (2025) 
+ - *ICLR*：PC Member (2025)
+ - *AISTATS*：PC Member (2025) 
  
 Journals
  - *Multimedia Systems*: Reviewer
