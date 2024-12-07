@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)</a>, supervised by Prof. <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu (许倩倩)</a> (Professor at ICT, CAS) and <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang (黄庆明)</a> (IEEE Fellow). I have received the B.E. degree in the <a href="https://www.en.scse.uestc.edu.cn/" style="text-decoration: none;">SCSE</a> at the <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">University of Electronic Science and Technology of China (UESTC)</a> in 2023. My research interests include machine learning and computer vision. If you are interested in my research, please email me at <a href="hanboyu23z@ict.ac.cn">hanboyu23z@ict.ac.cn</a>.
+Hi! I'm Boyu Han (韩博宇). Now I am a second-year PhD. student in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)</a>, supervised by Prof. <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu (许倩倩)</a> (Professor at ICT, CAS) and <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang (黄庆明)</a> (IEEE Fellow). I have received the B.E. degree in the <a href="https://www.en.scse.uestc.edu.cn/" style="text-decoration: none;">SCSE</a> at the <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">University of Electronic Science and Technology of China (UESTC)</a> in 2023. My research interests include machine learning and computer vision. If you are interested in my research, please email me at <a href="hanboyu23z@ict.ac.cn">hanboyu23z@ict.ac.cn</a>.
 
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
@@ -44,7 +44,7 @@ Hi! I'm Boyu Han (韩博宇). Now I am a PhD. student in <a href="https://vipl.i
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
-[\[Paper\]](https://arxiv.org/abs/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg)
+[\[Paper\]](https://arxiv.org/abs/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482) \| [\[Slides\]](https://neurips.cc/media/neurips-2024/Slides/94250.pdf) \| [\[Project\]](https://boyuh.github.io/Project_AUCSeg/)
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
 International Conference on Machine Learning (**ICML**) 2024
 
-[\[Paper\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) | [\[Video\]](https://www.youtube.com/watch?v=oo2oFO0v_rM)
+[\[Paper\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202024/33489.png?t=1719404023.5924995) \| [\[Video\]](https://www.youtube.com/watch?v=oo2oFO0v_rM)
 </div>
 </div>
 
@@ -68,6 +68,7 @@ Conferences
  - *AISTATS*：PC Member (2025) 
  
 Journals
+ - *ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)*: Reviewer
  - *Multimedia Systems*: Reviewer
  
 <!-- # 💬 Invited Talks & Presentations
