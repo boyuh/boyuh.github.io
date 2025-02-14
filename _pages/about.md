@@ -70,6 +70,7 @@ Conferences
  - *AISTATS*：PC Member (2025) 
  
 Journals
+ - *IEEE Transactions on Multimedia (T-MM)*: Reviewer
  - *ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)*: Reviewer
  - *Multimedia Systems*: Reviewer
  
