@@ -63,7 +63,7 @@ International Conference on Machine Learning (**ICML**) 2024
 
 # 📖 Academic Services
 Conferences
- - *NeurIPS*：PC Member (2024)
+ - *NeurIPS*：PC Member (2024, 2025)
  - *ICLR*：PC Member (2025)
  - *ICML*：PC Member (2025)
  - *IJCAI*：PC Member (2025) 
