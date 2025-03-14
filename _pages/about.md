@@ -67,6 +67,7 @@ Conferences
  - *ICLR*：PC Member (2025)
  - *ICML*：PC Member (2025)
  - *IJCAI*：PC Member (2025) 
+ - *ACM MM*：PC Member (2025) 
  - *AISTATS*：PC Member (2025) 
  
 Journals
