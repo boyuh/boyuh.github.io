@@ -24,7 +24,7 @@ Hi! I'm Boyu Han (韩博宇). Now I am a second-year PhD. student in <a href="ht
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉🎉 Our team (`MR-CAS`) won the <a href="https://www.codabench.org/competitions/2613/#/results-tab" style="text-decoration: none;">1st place</a> in <a href="https://egovis.github.io/cvpr25/" style="text-decoration: none;">CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis Workshop HoloAssist Challenges)</a>!
+- *2025.06*: &nbsp;🎉🎉🎉 Our team (MR-CAS) won the <a href="https://www.codabench.org/competitions/2613/#/results-tab" style="text-decoration: none;">1st place</a> in <a href="https://egovis.github.io/cvpr25/" style="text-decoration: none;">CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges, Mistake Detection Track)</a>!
 - *2024.09*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2024" style="text-decoration: none;">NeurIPS 2024</a>, thanks to all co-authors!
 - *2024.05*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://icml.cc/Conferences/2024" style="text-decoration: none;">ICML 2024</a>,  thanks to all co-authors!
 - *2023.09*: &nbsp;🎉 Start my journey in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">ICT, CAS</a>!!
@@ -59,11 +59,26 @@ International Conference on Machine Learning (**ICML**) 2024
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJC'25</div><img src='images/CJC2025_RobustAUC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Efficient Adversarial Training for AUC Optimization</font>**
+
+<a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://huacong.github.io/" style="text-decoration: none;">Cong Hua</a>, **Boyu Han**, <a href="https://scst.sysu.edu.cn/members/caoxiaochun.htm" style="text-decoration: none;">Xiaochun Cao</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
+
+Chinese Journal of Computers (**CJC**) 2025
+
+[\[Paper\]](https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7hsOlChNoeEB7PZxZNApTf5MM9Ru5Di7mEAlIuIH4bDlwMPE6O7eyxR54h9THYXD8oJK0WTuRU7oXZD8WjRHjbXmIdxGP8Lq6LJSUPAo7oRMEZemAbYjKYfUW9UG4hdU9G_HrtbIE_TAutiMhu9iHcvNpm_sRm1Llg=&uniplatform=NZKPT)
+
+- This paper presents a systematic investigation of a more generalized and efficient AdAUC framework, introducing a novel Ranking-aware Adversarial Regularization algorithm to achieve a better balance between standard and robust AUC performance.
+</div>
+</div>
+
 # 🥇 Competitions
 
-**<font size=4>EgoVis Workshop - HoloAssist Challenges @ CVPR 2025, 1st Place</font>**
+**<font size=4>EgoVis HoloAssist Challenges @ CVPR 2025, 1st Place</font>**
 
-Team `MR-CAS`: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, Sicong Li, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
+Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, Sicong Li, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
 
 [\[Website\]](https://egovis.github.io/cvpr25/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab)
 
