@@ -95,7 +95,7 @@ Conferences
  
 Journals
  - *IEEE Transactions on Multimedia (T-MM)*: Reviewer
- - *IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT)*: Reviewer
+ - *IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)*: Reviewer
  - *ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)*: Reviewer
  - *Multimedia Systems*: Reviewer
  
@@ -110,7 +110,7 @@ Journals
 - **Outstanding Graduate** of Sichuan Province(四川省优秀毕业生), 2023
 - **Outstanding Graduate** of University of Electronic Science and Technology of China (电子科技大学优秀毕业生), 2023
 - **National Scholarship** (国家奖学金), 2022
-- **Tencent First Prize Scholarship** (腾讯一等学金), 2021
+- **Tencent First Prize Scholarship** (腾讯一等奖学金), 2021
 - **Three-time First-Class Annual Scholarship for Outstanding Students** by University of Electronic Science and Technology of China (电子科技大学一等优秀学生奖学金), 2020-2022
 - **Outstanding Winner and AMS Award** in the American College Students Mathematical Modeling Contest (美国大学生数学建模竞赛O奖及AMS奖), 2021
 
