@@ -24,14 +24,28 @@ Hi! I'm Boyu Han (韩博宇). Now I am a second-year PhD. student in <a href="ht
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉🎉 Our team won the <a href="https://sites.google.com/view/datacv-iccv25/papers" style="text-decoration: none;">1st place</a> in <a href="https://sites.google.com/view/datacv-iccv25/challenge" style="text-decoration: none;">ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)</a>, with one paper accepted by ICCV 2025 DataCV workshop!
 - *2025.06*: &nbsp;🎉🎉🎉 Our team (MR-CAS) won the <a href="https://www.codabench.org/competitions/2613/#/results-tab" style="text-decoration: none;">1st place</a> in <a href="https://egovis.github.io/cvpr25/" style="text-decoration: none;">CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges, Mistake Detection Track)</a>!
 - *2024.09*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2024" style="text-decoration: none;">NeurIPS 2024</a>, thanks to all co-authors!
-- *2024.05*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://icml.cc/Conferences/2024" style="text-decoration: none;">ICML 2024</a>,  thanks to all co-authors!
+- *2024.05*: &nbsp;🎉 One paper accepted to <a href="https://icml.cc/Conferences/2024" style="text-decoration: none;">ICML 2024</a>,  thanks to all co-authors!
 - *2023.09*: &nbsp;🎉 Start my journey in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">ICT, CAS</a>!!
 - *2023.06*: &nbsp;🎉 Happy graduation from <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">UESTC</a>!!
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 workshop</div><img src='images/ICCV2025workshop_DataCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation</font>**
+
+<a href="https://ferry-li.github.io/" style="text-decoration: none;">Feiran Li</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, **Boyu Han**, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
+
+International Conference on Computer Vision (**ICCV**) 2025 workshop
+
+[\[Paper\]](https://arxiv.org/abs/2508.10672) \| [\[Code\]](https://github.com/Ferry-Li/datacv_fr)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024_AUCSeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,13 +82,21 @@ International Conference on Machine Learning (**ICML**) 2024
 
 Chinese Journal of Computers (**CJC**) 2025
 
-[\[Paper\]](https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7hsOlChNoeEB7PZxZNApTf5MM9Ru5Di7mEAlIuIH4bDlwMPE6O7eyxR54h9THYXD8oJK0WTuRU7oXZD8WjRHjbXmIdxGP8Lq6LJSUPAo7oRMEZemAbYjKYfUW9UG4hdU9G_HrtbIE_TAutiMhu9iHcvNpm_sRm1Llg=&uniplatform=NZKPT)
+[\[Paper\]](http://cjc.ict.ac.cn/online/onlinepaper/bsl-202571282256.pdf)
 
 - This paper presents a systematic investigation of a more generalized and efficient AdAUC framework, introducing a novel Ranking-aware Adversarial Regularization algorithm to achieve a better balance between standard and robust AUC performance.
 </div>
 </div>
 
 # 🥇 Competitions
+
+**<font size=4>DataCV Challenges @ ICCV 2025, 1st Place</font>**
+
+Team: <a href="https://ferry-li.github.io/" style="text-decoration: none;">Feiran Li</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, **Boyu Han**, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
+
+[\[Website\]](https://sites.google.com/view/datacv-iccv25/challenge) \| [\[Leaderboard\]](https://sites.google.com/view/datacv-iccv25/papers)
+
+- High-Quality Face Dataset Generation, Privacy Protection.
 
 **<font size=4>EgoVis HoloAssist Challenges @ CVPR 2025, 1st Place</font>**
 
