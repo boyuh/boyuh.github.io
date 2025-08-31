@@ -43,7 +43,7 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 
 International Conference on Computer Vision (**ICCV**) 2025 workshop
 
-[\[Paper\]](https://arxiv.org/abs/2508.10672) \| [\[Code\]](https://github.com/Ferry-Li/datacv_fr)
+[\[Paper\]](https://arxiv.org/pdf/2508.10672) \| [\[Code\]](https://github.com/Ferry-Li/datacv_fr)
 </div>
 </div>
 
@@ -56,7 +56,7 @@ International Conference on Computer Vision (**ICCV**) 2025 workshop
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
-[\[Paper\]](https://arxiv.org/abs/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482) \| [\[Slides\]](https://neurips.cc/media/neurips-2024/Slides/94250.pdf) \| [\[Project\]](https://boyuh.github.io/Project_AUCSeg/)
+[\[Paper\]](https://arxiv.org/pdf/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482) \| [\[Video\]](https://neurips.cc/virtual/2024/poster/94250) \| [\[Slides\]](https://neurips.cc/media/neurips-2024/Slides/94250.pdf) \| [\[Project\]](https://boyuh.github.io/Project_AUCSeg/)
 </div>
 </div>
 
@@ -69,7 +69,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
 International Conference on Machine Learning (**ICML**) 2024
 
-[\[Paper\]](https://arxiv.org/abs/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202024/33489.png?t=1719404023.5924995) \| [\[Video\]](https://www.youtube.com/watch?v=oo2oFO0v_rM)
+[\[Paper\]](https://arxiv.org/pdf/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202024/33489.png?t=1719404023.5924995) \| [\[Video\]](https://www.youtube.com/watch?v=oo2oFO0v_rM)
 </div>
 </div>
 
@@ -113,7 +113,7 @@ Conferences
  - *ICML*：PC Member (2025)
  - *IJCAI*：PC Member (2025) 
  - *ACM MM*：PC Member (2025) 
- - *AISTATS*：PC Member (2025) 
+ - *AISTATS*：PC Member (2025, 2026) 
  
 Journals
  - *IEEE Transactions on Multimedia (T-MM)*: Reviewer
