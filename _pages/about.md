@@ -94,7 +94,7 @@ Chinese Journal of Computers (**CJC**) 2025
 
 Team: <a href="https://ferry-li.github.io/" style="text-decoration: none;">Feiran Li</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, **Boyu Han**, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
 
-[\[Website\]](https://sites.google.com/view/datacv-iccv25/challenge) \| [\[Leaderboard\]](https://sites.google.com/view/datacv-iccv25/papers)
+[\[Website\]](https://sites.google.com/view/datacv-iccv25/challenge) \| [\[Leaderboard\]](https://sites.google.com/view/datacv-iccv25/papers) \| [\[Technical Report & Workshop Paper\]](https://arxiv.org/pdf/2508.10672)
 
 - High-Quality Face Dataset Generation, Privacy Protection.
 
@@ -109,7 +109,7 @@ Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="tex
 # 📖 Academic Services
 Conferences
  - *NeurIPS*：PC Member (2024, 2025)
- - *ICLR*：PC Member (2025)
+ - *ICLR*：PC Member (2025, 2026)
  - *ICML*：PC Member (2025)
  - *IJCAI*：PC Member (2025) 
  - *ACM MM*：PC Member (2025) 
