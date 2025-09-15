@@ -19,20 +19,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)</a>, supervised by Prof. <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu (许倩倩)</a> (Professor at ICT, CAS) and <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang (黄庆明)</a> (IEEE Fellow). I have received the B.E. degree in the <a href="https://www.en.scse.uestc.edu.cn/" style="text-decoration: none;">SCSE</a> at the <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">University of Electronic Science and Technology of China (UESTC)</a> in 2023. My research interests include machine learning and computer vision. I have authored or co-authored several academic papers in top-tier international conferences, including NeurIPS and ICML. If you are interested in my research, please email me at <a href="hanboyu23z@ict.ac.cn">hanboyu23z@ict.ac.cn</a>.
+Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)</a>, supervised by Prof. <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu (许倩倩)</a> (Professor at ICT, CAS) and <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang (黄庆明)</a> (IEEE Fellow). I have received the B.E. degree in the <a href="https://www.en.scse.uestc.edu.cn/" style="text-decoration: none;">SCSE</a> at the <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">University of Electronic Science and Technology of China (UESTC)</a> in 2023. My research interests include machine learning and computer vision, with a particular focus on long-tailed learning and the unified framework of generation and understanding. I have authored or co-authored several academic papers in top-tier international conferences and journals, including NeurIPS, ICML, and TPAMI. If you are interested in my research, please email me at <a href="hanboyu23z@ict.ac.cn">hanboyu23z@ict.ac.cn</a>.
 
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉🎉 One paper accepted to TPAMI, thanks to all co-authors!
 - *2025.07*: &nbsp;🎉🎉🎉 Our team won the <a href="https://sites.google.com/view/datacv-iccv25/papers" style="text-decoration: none;">1st place</a> in <a href="https://sites.google.com/view/datacv-iccv25/challenge" style="text-decoration: none;">ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)</a>, with one paper accepted by ICCV 2025 workshop!
 - *2025.06*: &nbsp;🎉🎉🎉 Our team (MR-CAS) won the <a href="https://www.codabench.org/competitions/2613/#/results-tab" style="text-decoration: none;">1st place</a> in <a href="https://egovis.github.io/cvpr25/" style="text-decoration: none;">CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges, Mistake Detection Track)</a>!
-- *2024.09*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2024" style="text-decoration: none;">NeurIPS 2024</a>, thanks to all co-authors!
+- *2024.09*: &nbsp;🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2024" style="text-decoration: none;">NeurIPS 2024</a>, thanks to all co-authors!
 - *2024.05*: &nbsp;🎉 One paper accepted to <a href="https://icml.cc/Conferences/2024" style="text-decoration: none;">ICML 2024</a>,  thanks to all co-authors!
 - *2023.09*: &nbsp;🎉 Start my journey in <a href="https://vipl.ict.ac.cn/en/index.html" style="text-decoration: none;">VIPL</a> research group of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">ICT, CAS</a>!!
 - *2023.06*: &nbsp;🎉 Happy graduation from <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">UESTC</a>!!
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/TPAMI_SISOD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach</font>**
+
+<a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://ferry-li.github.io/" style="text-decoration: none;">Feiran Li</a>, **Boyu Han**, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://scst.sysu.edu.cn/members/caoxiaochun.htm" style="text-decoration: none;">Xiaochun Cao</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2025
+
+[\[Paper\]](https://boyuh.github.io/) \| [\[Code\]](https://boyuh.github.io/)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 workshop</div><img src='images/ICCV2025workshop_DataCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -114,6 +128,7 @@ Conferences
  - *IJCAI*：PC Member (2025) 
  - *ACM MM*：PC Member (2025) 
  - *AISTATS*：PC Member (2025, 2026) 
+ - *ACM MM Asia*：PC Member (2025) 
  
 Journals
  - *IEEE Transactions on Multimedia (T-MM)*: Reviewer
@@ -129,7 +144,7 @@ Journals
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b). -->
 
 # 🎖 Honors and Awards
-- **Outstanding Graduate** of Sichuan Province(四川省优秀毕业生), 2023
+- **Outstanding Graduate** of Sichuan Province (四川省优秀毕业生), 2023
 - **Outstanding Graduate** of University of Electronic Science and Technology of China (电子科技大学优秀毕业生), 2023
 - **National Scholarship** (国家奖学金), 2022
 - **Tencent First Prize Scholarship** (腾讯一等奖学金), 2021
