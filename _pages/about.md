@@ -34,7 +34,7 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/TPAMI_SISOD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI_SISOD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach</font>**
