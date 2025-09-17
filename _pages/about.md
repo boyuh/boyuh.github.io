@@ -70,7 +70,7 @@ International Conference on Computer Vision (**ICCV**) 2025 workshop
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
-[\[Paper\]](https://arxiv.org/pdf/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482) \| [\[Video\]](https://neurips.cc/virtual/2024/poster/94250) \| [\[Slides\]](https://neurips.cc/media/neurips-2024/Slides/94250.pdf) \| [\[Project\]](https://boyuh.github.io/Project_AUCSeg/)
+[\[Paper\]](https://arxiv.org/pdf/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482) \| [\[Video\]](https://neurips.cc/virtual/2024/poster/94250) \| [\[Slides\]](https://neurips.cc/media/neurips-2024/Slides/94250.pdf) \| [\[Project\]](https://boyuh.github.io/project/AUCSeg/)
 </div>
 </div>
 
@@ -116,7 +116,7 @@ Team: <a href="https://ferry-li.github.io/" style="text-decoration: none;">Feira
 
 Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, Sicong Li, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
 
-[\[Website\]](https://egovis.github.io/cvpr25/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab)
+[\[Website\]](https://egovis.github.io/cvpr25/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab) \| [\[Technical Report\]](https://arxiv.org/pdf/2509.12990)
 
 - Mistake Detection Track, Fine-grained Video Understanding.
 
