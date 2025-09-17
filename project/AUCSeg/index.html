@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+    content="AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation">
+  <meta name="keywords" content="AUCSeg, AUC, Semantic Segmentation, Long-tail">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image:src" content="http://marigoldmonodepth.github.io/images/marigold_logo_square.jpg">
+  <meta name="twitter:title" content="AUCSeg">
+  <meta name="twitter:description"
+    content="AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation">
+  <meta name="twitter:creator" content="@AntonObukhov1">
+
+  <title>AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation
+  </title>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1FWSVCGZTG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-1FWSVCGZTG');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./css/bulma.min.css">
+  <link rel="stylesheet" href="./css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./css/twentytwenty.css">
+  <link rel="stylesheet" href="./css/index.css">
+  <link rel="icon" href="./images/icon.png" type="image/png">
+
+
+  <script src="./js/jquery-3.2.1.min.js"></script>
+  <script src="./js/jquery.event.move.js"></script>
+  <script src="./js/jquery.twentytwenty.js"></script>
+  <script src="./js/bulma-carousel.min.js"></script>
+  <script src="./js/bulma-slider.min.js"></script>
+  <script src="./js/fontawesome.all.min.js"></script>
+  <script src="./js/index.js"></script>
+
+  <!--MathJax-->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+  </script>
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation</h1>
+            <h3 class="title has-text-centered">NeurIPS 2024</h3>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="https://boyuh.github.io/" target="_blank"
+                  rel="noopener noreferrer">
+                  Boyu Han</a><sup>1,2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://qianqianxu010.github.io/" target="_blank" rel="noopener noreferrer">
+                  Qianqian Xu</a><sup>1,3<b>*</b></sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://joshuaas.github.io/" target="_blank" rel="noopener noreferrer">
+                  Zhiyong Yang</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://statusrank.github.io/" target="_blank" rel="noopener noreferrer">
+                  Shilong Bao</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://scholar.google.com/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao" target="_blank" rel="noopener noreferrer">
+                  Peisong Wen</a><sup>1,2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://jiangyangby.github.io/" target="_blank" rel="noopener noreferrer">
+                  Yangbangyan Jiang</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://qmhuang-ucas.github.io/" target="_blank" rel="noopener noreferrer">
+                  Qingming Huang</a><sup>2,1,4<b>*</b></sup>
+              </span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup> Key Lab. of Intelligent Information Processing, Institute of Computing Technology, CAS</span><br>
+              <span class="author-block"><sup>2</sup> School of Computer Science and Tech., University of Chinese Academy of Sciences</span><br>
+              <span class="author-block"><sup>3</sup> Peng Cheng Laboratory</span><br>
+              <span class="author-block"><sup>4</sup> Key Laboratory of Big Data Mining and Knowledge Management, CAS</span><br>
+              <span class="author-block"><sup><b>*</b></sup> Corresponding authors</span>
+
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2409.20398" target="_blank" rel="noopener noreferrer"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+                <!-- Code Link. -->
+                <span class="link-block">
+                  <a href="https://github.com/boyuh/AUCSeg" target="_blank" rel="noopener noreferrer"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <!-- Video Link. -->
+              <!-- <span class="link-block">
+                <a href="https://github.com/boyuh/AUCSeg"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span> -->
+                <!-- Colab Link. 
+                <span class="link-block">
+                  <a href="https://colab.research.google.com/drive/12G8reD13DdpMie5ZQlaFNo2WCGeNUH-u?usp=sharing"
+                    target="_blank" rel="noopener noreferrer" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <img src="images/colab.svg">
+                    </span>
+                    <span>&nbsp;Google Colab</span>
+                  </a>
+                </span>
+                -->
+                <!-- Hugging Face.
+                <span class="link-block">
+                  <a href="https://huggingface.co/spaces/toshas/marigold" target="_blank" rel="noopener noreferrer"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      &#129303;
+                    </span>
+                    <span>Hugging Face Space</span>
+                  </a>
+                </span>
+                 -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top: 1rem;">
+    <div class="container is-max-desktop">
+      <!-- Abstract. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p style="font-size: 1.2em;">
+              The Area Under the ROC Curve (AUC) is a well-known metric for evaluating instance-level long-tail learning problems. In the past two decades, many AUC optimization methods have been proposed to improve model performance under long-tail distributions. In this paper, we explore AUC optimization methods in the context of pixel-level long-tail semantic segmentation, a much more complicated scenario. This task introduces two major challenges for AUC optimization techniques. On one hand, AUC optimization in a pixel-level task involves complex coupling across loss terms, with structured inner-image and pairwise inter-image dependencies, complicating theoretical analysis. On the other hand, we find that mini-batch estimation of AUC loss in this case requires a larger batch size, resulting in an unaffordable space complexity. To address these issues, we develop a pixel-level AUC loss function and conduct a dependency-graph-based theoretical analysis of the algorithm's generalization ability. Additionally, we design a Tail-Classes Memory Bank (T-Memory Bank) to manage the significant memory demand. Finally, comprehensive experiments across various benchmarks confirm the effectiveness of our proposed AUCSeg method.
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+  <section class="hero is-light is-small">
+    <div class="hero-body">
+      <div class="container">
+        <div id="results-carousel-horizontal" class="carousel results-carousel">
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/00_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/00_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/00_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/00_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/01_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/01_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/01_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/01_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/02_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/02_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/02_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/02_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/03_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/03_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/03_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/03_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/04_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/04_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/04_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/04_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/05_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/05_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/05_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/05_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/06_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/06_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/06_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/06_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/07_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/07_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/07_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/07_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/08_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/08_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/08_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/08_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/09_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/09_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/09_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/09_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/10_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/10_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/10_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/10_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/11_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/11_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/11_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/11_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/12_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/12_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/12_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/12_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+          <div class="twoitem">
+            <div class="twentytwenty-container twentytwenty-container-top">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/13_image.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/13_aucseg.png">
+              </div>
+            </div>
+            <div class="twentytwenty-container twentytwenty-container-bottom">
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/13_deeplabv3+.png">
+              </div>
+              <div class="cmpcontent">
+                <img src="./images/AUCSeg/13_aucseg.png">
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <script>
+    $(window).on('load', function () {
+      bulmaCarousel.attach('#results-carousel-horizontal', {
+        slidesToScroll: 1,
+        slidesToShow: 3,
+        loop: true,
+        autoplay: true,
+      });
+
+      bulmaCarousel.attach('#results-carousel-vertical', {
+        slidesToScroll: 1,
+        slidesToShow: 5,
+        loop: true,
+        autoplay: true,
+      });
+
+      $(".twentytwenty-container-top").twentytwenty({
+        before_label: 'Input',
+        after_label: 'Ours',
+        default_offset_pct: 0.75,
+      });
+      $(".twentytwenty-container-bottom").twentytwenty({
+        before_label: 'Previous',
+        after_label: 'Ours',
+        default_offset_pct: 0.5,
+      });
+    });
+  </script>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <!-- Method. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Method</h2>
+          <div class="content has-text-justified">
+            
+            <div style="text-align: center;">
+              <img id="overview" width="100%" src="./images/overview.png" alt="An overview of AUCSeg." />
+            </div>
+
+            <p class="mt-5">
+              AUCSeg is a generic optimization method that can be directly applied to any SOTA backbone for semantic segmentation. Specifically, AUCSeg includes two crucial components: (1) <strong>AUC optimization</strong> where a theoretically grounded loss function is explored for pixel-level semantic segmentation, and (2) <strong>Tail-class Memory Bank</strong>, an effective augmentation scheme to ensure efficient optimization of the proposed AUC loss.
+            </p>
+
+            <div class="tabs">
+              <ul>
+                <li class="is-active" data-tab="tab1"><a>AUC Optimization</a></li>
+                <li data-tab="tab2"><a>Tail-class Memory Bank</a></li>
+              </ul>
+            </div>
+            
+            <div class="tab-content">
+              <div class="tab-pane is-active" id="tab1">
+                <h4>AUC Optimization</h4>
+                <p>
+                  Semantic segmentation is a multi-class classification task. Therefore, to apply AUC, we follow a popular multi-class AUC manner, i.e., the One vs. One (ovo) strategy, which is an average binary AUC score. Specifically, we denote the height and width of the images as $H$ and $W$, respectively. Let $\mathcal{D}^p = \{(\textbf{X}_{u,v}^i,\textbf{Y}_{u,v}^i)| i \in [1,n],u \in [0, H-1],v \in [0, W-1]\}$ be the set of all pixels, where $n$ is the number of images. The $j$-th element ($j \in [1,n \times (H-1) \times (W-1)]$) in $\mathcal{D}^p$ is abbreviated as $(\textbf{X}_j^p,\textbf{Y}_j^p)$ for convenience. Given the model prediction $f_{\theta}=(f_{\theta}^{(1)}, \dots, f_{\theta}^{(K)})$, $\forall c \in [K]$, $f_{\theta}^{(c)} \in [0,1]$, where $f_{\theta}^{(c)}$ serves as a continuous score function supporting class $c$ and $K$ denotes the total number of classe, our optimization objective is defined as follows:
+                  $$
+                  \ell_{auc}:= \sum\limits_{c=1}^{K}\sum\limits_{c' \neq c}\sum\limits_{\textbf{X}_{m}^p \in \mathcal{N}_{c}}\sum\limits_{\textbf{X}_{n}^p \in \mathcal{N}_{c'}}\frac{1}{|\mathcal{N}_{c}||\mathcal{N}_{c'}|}\ell_{sq}^{c,c',m,n},
+                  $$
+                  where we adopt the widely used square loss $\ell_{sq}(x)=(1-x)^2$ as the surrogate loss; $\ell_{sq}^{c,c',m,n}:= \ell_{sq}(f_{\theta}^{(c)}(\textbf{X}_{m}^p)-f_{\theta}^{(c)}(\textbf{X}_{n}^p))$; $\mathcal{N}_{c}=\{\textbf{X}_{k}^p|\textbf{Y}_{k}^p=c \}$ represents the set of pixels with label $c$ in the set $\mathcal{D}^p$, and $|\mathcal{N}_{c}|$ denotes the size of the set.
+                </p>
+                <p>
+                  The proposed loss enjoys a well-guaranteed generalization bound. Specifically, let $\mathbb{E}_{\mathcal{D}}\left[\hat{\mathcal{L}}_{\mathcal{D}}\left(f\right)\right]$ be the population risk of $\hat{\mathcal{L}}_{\mathcal{D}}\left(f\right)$. Assume $\mathcal{F} \subseteq \{ f:\mathcal{X} \to \mathbb{R}^{H \times W \times K} \}$, where $H$ and $W$ represent the height and width of the image, and $K$ represents the number of categories,  $\hat{\mathcal{L}}^{(i)}$ is the risk over $i$-th sample, and is $\mu$-Lipschitz with respect to the $l_{\infty}$ norm, (\ie $\Vert \hat{\mathcal{L}}(x)-\hat{\mathcal{L}}(y)\Vert_\infty \le \mu\cdot \Vert x-y \Vert_{\infty}$). There exists three constants $A>0$, $B>0$ and $C>0$, the following generalization bound holds with probability at least $1-\delta$ over a random draw of i.i.d training data (at the image-level):
+                  $$
+                  \begin{aligned}
+                  \left|\hat{\mathcal{L}}_{\mathcal{D}}\left(f\right)-\mathbb{E}_{\mathcal{D}}\left[\hat{\mathcal{L}}_{\mathcal{D}}\left(f\right)\right]\right| \leq \frac{8}{N}+&\frac{\eta_{\text{inner}}+\eta_{\text{inter}}}{\sqrt{N}}\sqrt{A\log\left(2B\mu\tau Nk+C\right)} \\
+                  &+3\left(\sqrt{\frac{1}{2N}}+K\sqrt{1-\frac{1}{N}}\right)\sqrt{\log \left(\frac{4K(K-1)}{\delta}\right)},
+                  \end{aligned}
+                  $$
+                  where
+                  $$
+                  \eta_{\text{inner}}=\frac{48\mu\tau\ln N}{N}, \quad \eta_{\text{inter}}=2\sqrt{2}\tau,\quad \tau=\left(\max\limits_{c\in[K]}\frac{n_{\max}^{(c)}}{n_{\text{mean}}^{(c)}}\right)^2,
+                  $$
+                  $n_{\max}^{(c)} =  \max_{\mathbf{X}} n(\mathbf{X}^{(c)})$, $n_{mean}^{(c)} = \sum_{i=1}^{N}n(\mathbf{X}_i^{(c)})$, $N=\left|\mathcal{D}\right|$, $k=H\times W$ and $\mathbf{X}^{(c)}$ represents the pixel of class $c$ in image $\mathbf{X}$.
+                </p>
+              </div>
+              
+              <div class="tab-pane" id="tab2">
+                <h4>Tail-class Memory Bank</h4>
+                <p>
+                  The stochastic AUC optimization requires at least one sample from each class in a mini-batch. This leads to the need for a large batch size during training, resulting in an overwhelming computational burden.
+                </p>
+                <p>
+                  Therefore, we introduce a novel Tail-class Memory Bank (T-Memory Bank) to efficiently optimize the loss while managing GPU usage effectively. The high-level ideas behind the T-Memory Bank are as follows: (1) identify any missing tail classes across all images within a mini-batch and (2) randomly replace certain pixels in images missing those classes based on historical class information stored in the T-Memory Bank.
+
+                  Specifically, the T-Memory Bank comprises three main components:
+                </p>    
+                <ul>
+                  <li><strong>Memory Branch</strong> stores a set with $S_{M}$ (the Memory Size) images for each tail class. We define the set as $\mathcal{M}=\{\mathcal{M}_{c_1}, \dots, \mathcal{M}_{c_{n_t}}\}$, where $\mathcal{C}_t=\{c_i\}_{i=1}^{n_t}$ denotes the labels of tail classes, and $n_t$ is the total number of selected tail classes.</li>
+                  <li><strong>Retrieve Branch</strong> selects pixels from the Memory Branch to supplement the missing tail classes.</li>
+                  <li><strong>Store Branch</strong> updates the Memory Branch whenever a new image arrives.</li>
+                </ul>
+              </div>
+
+          </div>
+        </div>
+      </div>
+      <!--/ Method. -->
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <!-- Experiments. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Experimental Results</h2>
+          <div class="content has-text-justified">
+            <p>
+              Quantitative comparison of AUCSeg with 13 recent advancements and 6 long-tail approaches in semantic segmentation on three typical datasets. The champion and the runner-up are highlighted in bold and underlined. Our AUCSeg outperforms all competitors in most scenarios, especially in overall and tail classes.
+            </p>
+            
+            <div style="text-align: center;">
+              <img id="comparison" width="100%" src="./images/results.png" alt="Comparison with other methods" />
+            </div>
+            
+            <p class="mt-5">
+              AUCSeg is a plug-and-play component that can be integrated into almost any existing backbone. The table below presents experimental results on various backbones, demonstrating the superiority of our AUCSeg for long-tailed semantic segmentation.
+            </p>
+
+            <div style="text-align: center;">
+              <img id="backbone" width="50%" src="./images/backbone.png" alt="Backbone extension" />
+            </div>
+            
+            <p class="mt-5">
+              Refer to the pdf paper linked above for more details on qualitative, quantitative, and ablation studies.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!--/ Experiments. -->
+    </div>
+  </section>
+
+
+  <section class="section pt-0" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">Citation</h2>
+      <pre class="selectable"><code>@inproceedings{han2024aucseg,
+        title={AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation}, 
+        author={Boyu Han and Qianqian Xu and Zhiyong Yang and Shilong Bao and Peisong Wen and Yangbangyan Jiang and Qingming Huang},
+        booktitle={Advances in Neural Information Processing Systems},
+        year={2024}
+    }
+}</code></pre>
+    </div>
+  </section>
+
+
+  <footer class="footer pt-4 pb-0">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              Website template based on
+              <a href="https://github.com/nerfies/nerfies.github.io">
+                Nerfies
+              </a>
+              and licensed under
+              <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+                CC-BY-SA-4.0
+              </a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
