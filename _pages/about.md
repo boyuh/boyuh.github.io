@@ -44,7 +44,7 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2025
 
-[\[Paper\]](https://boyuh.github.io/) \| [\[Code\]](https://boyuh.github.io/)
+[\[Paper\]](https://boyuh.github.io/) \| [\[Code\]](https://github.com/boyuh/LightFair)
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2025
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2025
 
-[\[Paper\]](https://boyuh.github.io/) \| [\[Code\]](https://boyuh.github.io/)
+[\[Paper\]](https://arxiv.org/pdf/2509.15573) \| [\[Code\]](https://github.com/Ferry-Li/SI-SOD)
 </div>
 </div>
 
