@@ -24,9 +24,12 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
 # 🔥 News
+
+- *2026.02*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://cvpr.thecvf.com/Conferences/2026" style="text-decoration: none;">CVPR 2026</a>, thanks to all co-authors!
+- *2026.01*: &nbsp;🎉🎉🎉 I received the President of the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) Excellence Award!
 - *2025.09*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2025" style="text-decoration: none;">NeurIPS 2025</a>, thanks to all co-authors!
-- *2025.09*: &nbsp;🎉🎉🎉 One paper accepted to TPAMI, thanks to all co-authors!
-- *2025.07*: &nbsp;🎉🎉🎉 Our team won the <a href="https://sites.google.com/view/datacv-iccv25/papers" style="text-decoration: none;">1st place</a> in <a href="https://sites.google.com/view/datacv-iccv25/challenge" style="text-decoration: none;">ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)</a>, with one paper accepted by ICCV 2025 workshop!
+- *2025.09*: &nbsp;🎉 One paper accepted to TPAMI, thanks to all co-authors!
+- *2025.07*: &nbsp;🎉 Our team won the <a href="https://sites.google.com/view/datacv-iccv25/papers" style="text-decoration: none;">1st place</a> in <a href="https://sites.google.com/view/datacv-iccv25/challenge" style="text-decoration: none;">ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)</a>, with one paper accepted by ICCV 2025 workshop!
 - *2025.06*: &nbsp;🎉 Our team (MR-CAS) won the <a href="https://www.codabench.org/competitions/2613/#/results-tab" style="text-decoration: none;">1st place</a> in <a href="https://egovis.github.io/cvpr25/" style="text-decoration: none;">CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges, Mistake Detection Track)</a>!
 - *2024.09*: &nbsp;🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2024" style="text-decoration: none;">NeurIPS 2024</a>, thanks to all co-authors!
 - *2024.05*: &nbsp;🎉 One paper accepted to <a href="https://icml.cc/Conferences/2024" style="text-decoration: none;">ICML 2024</a>,  thanks to all co-authors!
@@ -35,6 +38,19 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR2026_DCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation</font>**
+
+**Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://github.com/421zuoduan" style="text-decoration: none;">Ruochen Cui</a>, Xilin Zhao, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
+
+Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026
+
+[\[Paper\]]() \| [\[Code\]]()
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS2025_LightFair.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,7 +60,7 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2025
 
-[\[Paper\]](https://arxiv.org/pdf/2509.23639) \| [\[Code\]](https://github.com/boyuh/LightFair)
+[\[Paper\]](https://arxiv.org/pdf/2509.23639) \| [\[Code\]](https://github.com/boyuh/LightFair) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/115286.png?t=1764155161.3263206)
 </div>
 </div>
 
@@ -69,7 +85,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2025
 
 <a href="https://ferry-li.github.io/" style="text-decoration: none;">Feiran Li</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, **Boyu Han**, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
 
-International Conference on Computer Vision (**ICCV**) 2025 workshop
+International Conference on Computer Vision (**ICCV**) 2025 workshop **(Oral)**
 
 [\[Paper\]](https://arxiv.org/pdf/2508.10672) \| [\[Code\]](https://github.com/Ferry-Li/datacv_fr)
 </div>
@@ -138,10 +154,10 @@ Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="tex
 Conferences
  - *NeurIPS*：PC Member (2024, 2025)
  - *ICLR*：PC Member (2025, 2026)
- - *ICML*：PC Member (2025)
+ - *ICML*：PC Member (2025, 2026)
  - *CVPR*：PC Member (2026)
  - *IJCAI*：PC Member (2025) 
- - *ACM MM*：PC Member (2025) 
+ - *ACM MM*：PC Member (2025, 2026) 
  - *AISTATS*：PC Member (2025, 2026) 
  - *ACM MM Asia*：PC Member (2025) 
  
@@ -153,9 +169,11 @@ Journals
  - *Multimedia Systems*: Reviewer
  
 # 💬 Invited Talks
-- *2025.10*: &nbsp; Graduate Student Academic Forum of the Journal of Image and Graphics (JIG) Talk for NeurIPS 2024. **<font color='red'> (Distinguished Presentation) </font>** [\[Video\]](https://www.bilibili.com/video/BV1hXxrzJEL1/?spm_id_from=333.337.search-card.all.click&vd_source=0f20a1f21f20a5634908f1acbb31017a).
+- *2026.01*: &nbsp; TechBeat Talk of NeurIPS 2025. [\[Video\]](https://www.techbeat.net/talk-info?id=1022)
+- *2025.10*: &nbsp; Graduate Student Academic Forum of the Journal of Image and Graphics (JIG) Talk of NeurIPS 2024. **<font color='red'> (Distinguished Presentation) </font>** [\[Video\]](https://www.bilibili.com/video/BV1hXxrzJEL1/?spm_id_from=333.337.search-card.all.click&vd_source=0f20a1f21f20a5634908f1acbb31017a)
 
 # 🎖 Honors and Awards
+- President of the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) **Excellence Award** (中国科学院计算技术研究所所长优秀奖), 2025
 - **Outstanding Graduate** of Sichuan Province (四川省优秀毕业生), 2023
 - **Outstanding Graduate** of University of Electronic Science and Technology of China (电子科技大学优秀毕业生), 2023
 - **National Scholarship** (国家奖学金), 2022
