@@ -156,8 +156,8 @@ Conferences
  - *ICLR*：PC Member (2025, 2026)
  - *ICML*：PC Member (2025, 2026)
  - *CVPR*：PC Member (2026)
- - *IJCAI*：PC Member (2025) 
  - *ACM MM*：PC Member (2025, 2026) 
+ - *IJCAI*：PC Member (2025) 
  - *AISTATS*：PC Member (2025, 2026) 
  - *ACM MM Asia*：PC Member (2025) 
  
@@ -173,7 +173,7 @@ Journals
 - *2025.10*: &nbsp; Graduate Student Academic Forum of the Journal of Image and Graphics (JIG) Talk of NeurIPS 2024. **<font color='red'> (Distinguished Presentation) </font>** [\[Video\]](https://www.bilibili.com/video/BV1hXxrzJEL1/?spm_id_from=333.337.search-card.all.click&vd_source=0f20a1f21f20a5634908f1acbb31017a)
 
 # 🎖 Honors and Awards
-- President of the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) **Excellence Award** (中国科学院计算技术研究所所长优秀奖), 2025
+- President of the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) **Excellence Award** (中国科学院计算技术研究所所长优秀奖), 2026
 - **Outstanding Graduate** of Sichuan Province (四川省优秀毕业生), 2023
 - **Outstanding Graduate** of University of Electronic Science and Technology of China (电子科技大学优秀毕业生), 2023
 - **National Scholarship** (国家奖学金), 2022
