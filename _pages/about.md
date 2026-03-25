@@ -67,7 +67,18 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2025
 
-[\[Paper\]](https://arxiv.org/pdf/2509.23639) \| [\[Code\]](https://github.com/boyuh/LightFair) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/115286.png?t=1764155161.3263206)
+<a href="https://arxiv.org/pdf/2509.23639"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Paper
+</a>
+<a href="https://github.com/boyuh/LightFair"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Code
+</a>
+<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202025/115286.png?t=1764155161.3263206"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Poster
+</a>
 </div>
 </div>
 
@@ -80,10 +91,16 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2025
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2025
 
-[\[Paper\]](https://arxiv.org/pdf/2509.15573) \| [\[Code\]](https://github.com/Ferry-Li/SI-SOD)
+<a href="https://arxiv.org/pdf/2509.15573"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Paper
+</a>
+<a href="https://github.com/Ferry-Li/SI-SOD"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Code
+</a>
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 workshop</div><img src='images/ICCV2025workshop_DataCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,7 +111,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2025
 
 International Conference on Computer Vision (**ICCV**) 2025 workshop **(Oral)**
 
-[\[Paper\]](https://arxiv.org/pdf/2508.10672) \| [\[Code\]](https://github.com/Ferry-Li/datacv_fr)
+<a href="https://arxiv.org/pdf/2508.10672"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Paper
+</a>
+<a href="https://github.com/Ferry-Li/datacv_fr"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Code
+</a>
 </div>
 </div>
 
@@ -139,7 +163,22 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
 International Conference on Machine Learning (**ICML**) 2024
 
-[\[Paper\]](https://arxiv.org/pdf/2405.07780) \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Poster\]](https://icml.cc/media/PosterPDFs/ICML%202024/33489.png?t=1719404023.5924995) \| [\[Video\]](https://www.youtube.com/watch?v=oo2oFO0v_rM)
+<a href="https://arxiv.org/pdf/2405.07780"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Paper
+</a>
+<a href="https://github.com/scongl/DirMixE"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Code
+</a>
+<a href="https://icml.cc/media/PosterPDFs/ICML%202024/33489.png?t=1719404023.5924995"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Poster
+</a>
+<a href="https://www.youtube.com/watch?v=oo2oFO0v_rM"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Video
+</a>
 </div>
 </div>
 
@@ -152,7 +191,10 @@ International Conference on Machine Learning (**ICML**) 2024
 
 Chinese Journal of Computers (**CJC**) 2025
 
-[\[Paper\]](http://cjc.ict.ac.cn/online/onlinepaper/bsl-202571282256.pdf)
+<a href="http://cjc.ict.ac.cn/online/onlinepaper/bsl-202571282256.pdf"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Paper
+</a>
 
 - This paper presents a systematic investigation of a more generalized and efficient AdAUC framework, introducing a novel Ranking-aware Adversarial Regularization algorithm to achieve a better balance between standard and robust AUC performance.
 </div>
