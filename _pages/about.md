@@ -48,11 +48,11 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026
 
 <a href="https://arxiv.org/pdf/2603.04803"
-   style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px; display:inline-block; width:10ch; text-align:center; box-sizing:border-box;">
+   style="padding:2px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
    Paper
 </a>
 <a href="https://github.com/boyuh/DCR"
-   style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:10ch; text-align:center; box-sizing:border-box;">
+   style="padding:2px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
    Code
 </a>
 </div>
@@ -107,7 +107,30 @@ International Conference on Computer Vision (**ICCV**) 2025 workshop **(Oral)**
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2024
 
-[\[Paper\]](https://arxiv.org/pdf/2409.20398) \| [\[Code\]](https://github.com/boyuh/AUCSeg) \| [\[Poster\]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482) \| [\[Video\]](https://neurips.cc/virtual/2024/poster/94250) \| [\[Slides\]](https://neurips.cc/media/neurips-2024/Slides/94250.pdf) \| [\[Project\]](https://boyuh.github.io/project/AUCSeg/)
+<a href="https://arxiv.org/pdf/2409.20398"
+   style="padding:2px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Paper
+</a>
+<a href="https://github.com/boyuh/AUCSeg"
+   style="padding:2px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Code
+</a>
+<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482"
+   style="padding:2px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Poster
+</a>
+<a href="https://neurips.cc/virtual/2024/poster/94250"
+   style="padding:2px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Video
+</a>
+<a href="https://neurips.cc/media/neurips-2024/Slides/94250.pdf"
+   style="padding:2px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Slides
+</a>
+<a href="https://boyuh.github.io/project/AUCSeg/"
+   style="padding:2px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Project
+</a>
 </div>
 </div>
 
