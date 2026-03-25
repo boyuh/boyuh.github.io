@@ -47,7 +47,14 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 
 Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026
 
-[\[Paper\]](https://arxiv.org/pdf/2603.04803) \| [\[Code\]](https://github.com/boyuh/DCR)
+<a href="https://arxiv.org/pdf/2603.04803"
+   style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px; display:inline-block; width:10ch; text-align:center; box-sizing:border-box;">
+   Paper
+</a>
+<a href="https://github.com/boyuh/DCR"
+   style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:10ch; text-align:center; box-sizing:border-box;">
+   Code
+</a>
 </div>
 </div>
 
@@ -152,7 +159,7 @@ Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="tex
 
 # 📖 Academic Services
 Conferences
- - *NeurIPS*：PC Member (2024, 2025)
+ - *NeurIPS*：PC Member (2024, 2025, 2026)
  - *ICLR*：PC Member (2025, 2026)
  - *ICML*：PC Member (2025, 2026)
  - *CVPR*：PC Member (2026)
