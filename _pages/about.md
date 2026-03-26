@@ -220,7 +220,7 @@ Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="tex
 
 # 📖 Academic Services
 Conferences
- - *NeurIPS*：PC Member (2024, 2025, 2026)
+ - *NeurIPS*：PC Member (2024, 2025)
  - *ICLR*：PC Member (2025, 2026)
  - *ICML*：PC Member (2025, 2026)
  - *CVPR*：PC Member (2026)
