@@ -25,9 +25,10 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉🎉🎉 Our team (MR-CAS) won the <a href="https://www.codabench.org/competitions/2613/#/results-tab" style="text-decoration: none;">1st place</a> in <a href="https://egovis.github.io/cvpr26/" style="text-decoration: none;">CVPR 2026 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges, Mistake Detection Track)</a>!
 - *2026.02*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://cvpr.thecvf.com/Conferences/2026" style="text-decoration: none;">CVPR 2026</a>, thanks to all co-authors!
-- *2026.01*: &nbsp;🎉🎉🎉 I received the President of the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) Excellence Award!
-- *2025.09*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2025" style="text-decoration: none;">NeurIPS 2025</a>, thanks to all co-authors!
+- *2026.01*: &nbsp;🎉🎉🎉 I received the Director Excellence Award of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">ICT, CAS</a>!
+- *2025.09*: &nbsp;🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2025" style="text-decoration: none;">NeurIPS 2025</a>, thanks to all co-authors!
 - *2025.09*: &nbsp;🎉 One paper accepted to TPAMI, thanks to all co-authors!
 - *2025.07*: &nbsp;🎉 Our team won the <a href="https://sites.google.com/view/datacv-iccv25/papers" style="text-decoration: none;">1st place</a> in <a href="https://sites.google.com/view/datacv-iccv25/challenge" style="text-decoration: none;">ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)</a>, with one paper accepted by ICCV 2025 workshop!
 - *2025.06*: &nbsp;🎉 Our team (MR-CAS) won the <a href="https://www.codabench.org/competitions/2613/#/results-tab" style="text-decoration: none;">1st place</a> in <a href="https://egovis.github.io/cvpr25/" style="text-decoration: none;">CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges, Mistake Detection Track)</a>!
@@ -55,6 +56,10 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026
    style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
    Code
 </a>
+<a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37484.png?t=1779952122.178651"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Poster
+</a>
 </div>
 </div>
 
@@ -78,6 +83,39 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2025
 <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202025/115286.png?t=1764155161.3263206"
    style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
    Poster
+</a>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024_AUCSeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation</font>**
+
+**Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://kid-7391.github.io/" style="text-decoration: none;">Peisong Wen</a>, <a href="https://jiangyangby.github.io/" style="text-decoration: none;">Yangbangyan Jiang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
+
+Advances in Neural Information Processing Systems (**NeurIPS**) 2024
+
+<a href="https://arxiv.org/pdf/2409.20398"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Paper
+</a>
+<a href="https://github.com/boyuh/AUCSeg"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Code
+</a>
+<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Poster
+</a>
+<a href="https://neurips.cc/virtual/2024/poster/94250"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Video
+</a>
+<a href="https://boyuh.github.io/project/AUCSeg/"
+   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
+   Project
 </a>
 </div>
 </div>
@@ -122,44 +160,12 @@ International Conference on Computer Vision (**ICCV**) 2025 workshop **(Oral)**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024_AUCSeg.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**<font size=4>AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation</font>**
-
-**Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://kid-7391.github.io/" style="text-decoration: none;">Peisong Wen</a>, <a href="https://jiangyangby.github.io/" style="text-decoration: none;">Yangbangyan Jiang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
-
-Advances in Neural Information Processing Systems (**NeurIPS**) 2024
-
-<a href="https://arxiv.org/pdf/2409.20398"
-   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
-   Paper
-</a>
-<a href="https://github.com/boyuh/AUCSeg"
-   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
-   Code
-</a>
-<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94250.png?t=1733470344.9781482"
-   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
-   Poster
-</a>
-<a href="https://neurips.cc/virtual/2024/poster/94250"
-   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
-   Video
-</a>
-<a href="https://boyuh.github.io/project/AUCSeg/"
-   style="padding:2px; border:1px solid #aaa; border-radius:4px; text-decoration:none; display:inline-block; width:8ch; text-align:center; box-sizing:border-box;">
-   Project
-</a>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024_𝖣𝗂𝗋𝖬𝗂𝗑𝖤.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition</font>**
 
-<a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://wang22ti.com/" style="text-decoration: none;">Zitai Wang</a>, Sicong Li, **Boyu Han**, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://scst.sysu.edu.cn/members/caoxiaochun.htm" style="text-decoration: none;">Xiaochun Cao</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
+<a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a><sup>\*</sup>, <a href="https://wang22ti.com/" style="text-decoration: none;">Zitai Wang</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=ADdUDqkAAAAJ" style="text-decoration: none;">Sicong Li</a>, **Boyu Han**, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://scst.sysu.edu.cn/members/caoxiaochun.htm" style="text-decoration: none;">Xiaochun Cao</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a><sup>\*</sup>
 
 International Conference on Machine Learning (**ICML**) 2024
 
@@ -202,6 +208,22 @@ Chinese Journal of Computers (**CJC**) 2025
 
 # 🥇 Competitions
 
+**<font size=4>EgoVis HoloAssist Challenges @ CVPR 2026, 1st Place</font>**
+
+Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://scholar.google.com/citations?user=HmQORb8AAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Ruochen Cui</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
+
+[\[Website\]](https://egovis.github.io/cvpr26/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab)
+
+- Mistake Detection Track, Fine-grained Video Understanding.
+
+**<font size=4>EgoVis HoloAssist Challenges @ CVPR 2025, 1st Place</font>**
+
+Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=ADdUDqkAAAAJ" style="text-decoration: none;">Sicong Li</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
+
+[\[Website\]](https://egovis.github.io/cvpr25/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab) \| [\[Technical Report\]](https://arxiv.org/pdf/2509.12990)
+
+- Mistake Detection Track, Fine-grained Video Understanding.
+
 **<font size=4>DataCV Challenges @ ICCV 2025, 1st Place</font>**
 
 Team: <a href="https://ferry-li.github.io/" style="text-decoration: none;">Feiran Li</a>, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, **Boyu Han**, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
@@ -210,17 +232,9 @@ Team: <a href="https://ferry-li.github.io/" style="text-decoration: none;">Feira
 
 - High-Quality Face Dataset Generation, Privacy Protection.
 
-**<font size=4>EgoVis HoloAssist Challenges @ CVPR 2025, 1st Place</font>**
-
-Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, Sicong Li, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
-
-[\[Website\]](https://egovis.github.io/cvpr25/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab) \| [\[Technical Report\]](https://arxiv.org/pdf/2509.12990)
-
-- Mistake Detection Track, Fine-grained Video Understanding.
-
 # 📖 Academic Services
 Conferences
- - *NeurIPS*：PC Member (2024, 2025)
+ - *NeurIPS*：PC Member (2024, 2025, 2026)
  - *ICLR*：PC Member (2025, 2026)
  - *ICML*：PC Member (2025, 2026)
  - *CVPR*：PC Member (2026)
@@ -238,10 +252,11 @@ Journals
  
 # 💬 Invited Talks
 - *2026.01*: &nbsp; TechBeat Talk of NeurIPS 2025. [\[Video\]](https://www.techbeat.net/talk-info?id=1022)
-- *2025.10*: &nbsp; Graduate Student Academic Forum of the Journal of Image and Graphics (JIG) Talk of NeurIPS 2024. **<font color='red'> (Distinguished Presentation) </font>** [\[Video\]](https://www.bilibili.com/video/BV1hXxrzJEL1/?spm_id_from=333.337.search-card.all.click&vd_source=0f20a1f21f20a5634908f1acbb31017a)
+- *2025.10*: &nbsp; Graduate Student Academic Forum of the Journal of Image and Graphics (JIG) Talk of NeurIPS 2024. **(Distinguished Presentation🏆)** [\[Video\]](https://www.bilibili.com/video/BV1hXxrzJEL1/?spm_id_from=333.337.search-card.all.click&vd_source=0f20a1f21f20a5634908f1acbb31017a)
 
 # 🎖 Honors and Awards
-- President of the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) **Excellence Award** (中国科学院计算技术研究所所长优秀奖), 2026
+- **Merit Student** of University of Chinese Academy of Sciences (中国科学院大学三好学生), 2026
+- **Director Excellence Award** of the Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所所长优秀奖), 2026
 - **Outstanding Graduate** of Sichuan Province (四川省优秀毕业生), 2023
 - **Outstanding Graduate** of University of Electronic Science and Technology of China (电子科技大学优秀毕业生), 2023
 - **National Scholarship** (国家奖学金), 2022
