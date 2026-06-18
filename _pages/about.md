@@ -25,9 +25,11 @@ Hi! I'm Boyu Han (韩博宇). Now I am a third-year PhD. student in <a href="htt
 
 # 🔥 News
 
+- *2026.06*: &nbsp;🎉🎉🎉 Our team (MR-CAS) won the <a href="https://varworkshop.github.io/challenges/" style="text-decoration: none;">1st place</a> in <a href="https://varworkshop.github.io/" style="text-decoration: none;">CVPR 2026 Competition for Fine-grained Video Understanding (AI Coach Challenge, Cooking Track)</a>!
 - *2026.05*: &nbsp;🎉🎉🎉 Our team (MR-CAS) won the <a href="https://www.codabench.org/competitions/2613/#/results-tab" style="text-decoration: none;">1st place</a> in <a href="https://egovis.github.io/cvpr26/" style="text-decoration: none;">CVPR 2026 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges, Mistake Detection Track)</a>!
-- *2026.02*: &nbsp;🎉🎉🎉 One paper accepted to <a href="https://cvpr.thecvf.com/Conferences/2026" style="text-decoration: none;">CVPR 2026</a>, thanks to all co-authors!
-- *2026.01*: &nbsp;🎉🎉🎉 I received the Director Excellence Award of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">ICT, CAS</a>!
+- *2026.05*: &nbsp;🎉🎉🎉 I have been recognized as an ICML 2026 Silver Reviewer!
+- *2026.02*: &nbsp;🎉 One paper accepted to <a href="https://cvpr.thecvf.com/Conferences/2026" style="text-decoration: none;">CVPR 2026</a>, thanks to all co-authors!
+- *2026.01*: &nbsp;🎉 I received the Director Excellence Award of <a href="http://english.ict.cas.cn/" style="text-decoration: none;">ICT, CAS</a>!
 - *2025.09*: &nbsp;🎉 One paper accepted to <a href="https://neurips.cc/Conferences/2025" style="text-decoration: none;">NeurIPS 2025</a>, thanks to all co-authors!
 - *2025.09*: &nbsp;🎉 One paper accepted to TPAMI, thanks to all co-authors!
 - *2025.07*: &nbsp;🎉 Our team won the <a href="https://sites.google.com/view/datacv-iccv25/papers" style="text-decoration: none;">1st place</a> in <a href="https://sites.google.com/view/datacv-iccv25/challenge" style="text-decoration: none;">ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)</a>, with one paper accepted by ICCV 2025 workshop!
@@ -210,9 +212,9 @@ Chinese Journal of Computers (**CJC**) 2025
 
 **<font size=4>EgoVis HoloAssist Challenges @ CVPR 2026, 1st Place</font>**
 
-Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://scholar.google.com/citations?user=HmQORb8AAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Ruochen Cui</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
+Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, <a href="https://joshuaas.github.io/" style="text-decoration: none;">Zhiyong Yang</a>, <a href="https://github.com/421zuoduan" style="text-decoration: none;">Ruochen Cui</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
 
-[\[Website\]](https://egovis.github.io/cvpr26/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab)
+[\[Website\]](https://egovis.github.io/cvpr26/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab) \| [\[Technical Report\]](https://arxiv.org/pdf/2606.02120)
 
 - Mistake Detection Track, Fine-grained Video Understanding.
 
@@ -223,6 +225,15 @@ Team MR-CAS: **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="tex
 [\[Website\]](https://egovis.github.io/cvpr25/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab) \| [\[Technical Report\]](https://arxiv.org/pdf/2509.12990)
 
 - Mistake Detection Track, Fine-grained Video Understanding.
+
+**<font size=4>AI Coach Challenge @ CVPR 2026, 1st Place</font>**
+
+Team MR-CAS: <a href="https://github.com/421zuoduan" style="text-decoration: none;">Ruochen Cui</a>, Yuhai Li, <a href="https://statusrank.github.io/" style="text-decoration: none;">Shilong Bao</a>, **Boyu Han**, <a href="https://qianqianxu010.github.io/" style="text-decoration: none;">Qianqian Xu</a>, <a href="https://qmhuang-ucas.github.io/" style="text-decoration: none;">Qingming Huang</a>
+
+[\[Website\]](https://varworkshop.github.io/) \| [\[Leaderboard\]](https://varworkshop.github.io/challenges/)
+
+- Cooking Track, Fine-grained Video Understanding.
+
 
 **<font size=4>DataCV Challenges @ ICCV 2025, 1st Place</font>**
 
@@ -242,6 +253,7 @@ Conferences
  - *IJCAI*：PC Member (2025) 
  - *AISTATS*：PC Member (2025, 2026) 
  - *ACM MM Asia*：PC Member (2025) 
+ - *IJCNN*：PC Member (2027) 
  
 Journals
  - *IEEE Transactions on Multimedia (T-MM)*: Reviewer
